@@ -1,0 +1,13 @@
+---
+sourceLocationPrefix: /tmp/tmpjgssuuxs/repo
+baselineLinesOfCode: 47
+unicodeNewlines: true
+columnKind: utf16
+primaryLanguage: javascript
+creationMetadata:
+  sha: dee416dae3b19ee9cb3a0d6c64c21f0ed5637a27
+  cliVersion: 2.22.2
+  creationTime: 2025-08-06T04:21:18.636440181Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: true
